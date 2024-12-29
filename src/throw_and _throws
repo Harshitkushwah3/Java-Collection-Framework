@@ -1,0 +1,16 @@
+We use the throws keyword in the method declaration to declare the type of exception that might occur with in it.
+
+ex:-
+pc{.......
+    public static void file() throws IOException{
+    ........
+    }
+
+The throw keyword is used to explicitly throw a single exception.
+
+ex:-
+pc{.......
+    public class void file(){
+    throw new AirthmeticException(" Divide by zero")
+    .......
+    }
